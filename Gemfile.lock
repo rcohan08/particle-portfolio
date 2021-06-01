@@ -3,9 +3,12 @@ GEM
   specs:
 
 PLATFORMS
+  ruby
   x86_64-linux
 
 DEPENDENCIES
 
 BUNDLED WITH
    2.2.19
+
+gem "jekyll"
